@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(76, 0, 255);
+}
+header {
+    display: flex;
+    justify-content: space-around;
+}
+.synek {
+    border: 3px solid black;
+    border-radius: 22px;
+    padding:202px;
+    margin: 1px;
+    background-color: beige;
+}
+.synek:hover {
+    border-color:aqua;
+    color:aqua
+}
